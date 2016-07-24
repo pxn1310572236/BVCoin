@@ -1,0 +1,9 @@
+Building MICACoin
+
+See doc/readme-qt.rst for instructions on building MICACoinQT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MICACoin.
+
+See doc/build-*.txt for instructions on building MICACoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MICACoin.
